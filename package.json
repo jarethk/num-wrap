@@ -1,0 +1,13 @@
+{
+    "name": "num-wrap",
+    "version": "1.0.0",
+    "description": "Wrap numbers within a certain range",
+    "keywords": ["number", "wrap", "range"],
+    "files": ["num-wrap.js"],
+    "license": "MIT",
+    "author": "David Fuller (https://github.com/jarethk)",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jarethk/num-wrap.git"
+    }
+}
