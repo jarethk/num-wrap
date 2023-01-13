@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "description": "Wrap numbers within a certain range",
     "keywords": ["number", "wrap", "range"],
-    "files": ["num-wrap.js"],
+    "main": "num-wrap.js",
+    "type": "module",
     "license": "MIT",
     "author": "David Fuller (https://github.com/jarethk)",
     "repository": {

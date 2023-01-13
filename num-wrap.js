@@ -1,4 +1,4 @@
-function wrap(val, min, max) {
+export function wrap(val, min, max) {
     let dist = (max - min) + 1;
     if (val < min) {
         let m = Math.abs(min - val - 1) % (dist);
