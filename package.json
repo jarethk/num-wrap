@@ -2,7 +2,11 @@
     "name": "num-wrap",
     "version": "1.0.0",
     "description": "Wrap numbers within a certain range",
-    "keywords": ["number", "wrap", "range"],
+    "keywords": [
+        "number",
+        "wrap",
+        "range"
+    ],
     "main": "num-wrap.js",
     "type": "module",
     "license": "MIT",
@@ -10,5 +14,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/jarethk/num-wrap.git"
+    },
+    "devDependencies": {
+        "eslint": "^8.31.0"
     }
 }
